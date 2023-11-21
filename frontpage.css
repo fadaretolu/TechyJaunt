@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(12, 19, 18);
+  color: white;
+  font-size: x-large;
+}
+.container {
+  background-color: lightslategrey;
+  display: flex;
+  justify-content: space-between;
+  height: 7vmax;
+}
+h1 {
+  float: left;
+  font-size: 70px;
+  margin: 0px 0px 30px 200px;
+}
+nav {
+  font-size: x-large;
+  margin: 9px 200px 0px 0px;
+}
+
+img {
+  height: 30vmax;
+  width: 45vmax;
+}
+
+footer {
+  background-color: lightslategrey;
+  height: 7vmax;
+}
